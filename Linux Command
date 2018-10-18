@@ -1,0 +1,3 @@
+Linux Command
+
+sftp -oIdentityFIle=[File Name] -oPort=[Port Number] [username]@[Host FQDN]
